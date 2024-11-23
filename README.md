@@ -93,5 +93,6 @@ Sets a standard for using ethical and explainable machine learning in healthcare
 
 # Acknowledgments
 Dataset: Pima Indians Diabetes Dataset from the UCI Machine Learning Repository.
-References:
+
+# References:
 Smith, J.W., Everhart, J.E., et al. (1988). Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus.
